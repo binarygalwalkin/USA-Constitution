@@ -28,6 +28,6 @@ In _Owings v. Speed_[1](#fn1art7) the question at issue was whether the Constitu
 
 <dt id="fn1art7">1</dt>
 
-<dd><span>[18 U.S. (5 Wheat.) 420](/supremecourt/text/18/420), 422–23 (1820).</span> [![back](/images/back_to_text.png)](#fn1 "Back to text at footnote reference 1")</dd>
+<dd><span>[18 U.S. (5 Wheat.) 420](/supremecourt/text/18/420), 422–23 (1820).</span> </dd>
 
 </dl>
