@@ -6,7 +6,7 @@
 >  -- <cite>Cornell Law, Legal  Information Institute [1]</cite>
 
 [1]:https://www.law.cornell.edu/constitution/preamble
-___
+
 
 ## We the people of the United States, in order to form a more perfect union, establish justice, insure domestic tranquility, 
 ## provide for the common defense, promote the general welfare, and secure the blessings of liberty to ourselves and our posterity, 
