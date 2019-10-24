@@ -1,12 +1,10 @@
 <div class="chunkcontent" divtype="article">
 
-# 
+# **ARTICLE I**
 
-<div class="num" value="1">**ARTICLE I**</div>
+# **LEGISLATIVE DEPARTMENT**
 
-<div class="title">**LEGISLATIVE DEPARTMENT**</div>
-
-**CONTENTS**
+## CONTENTS
 
 *   [Section 1\. Legislative Powers](/constitution-conan/article-1/section-1)
     *   [Separation of Powers and Checks and Balances](/constitution-conan/article-1/section-1/separation-of-powers-and-checks-and-balances)
