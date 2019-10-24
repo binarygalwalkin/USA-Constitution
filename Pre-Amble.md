@@ -1,9 +1,9 @@
 > The Preamble to the Constitution is an introductory, succinct statement of the principles at work in the full text.   
-
-
+___
 > It is referred to in countless speeches, judicial opinions, and in a song from Schoolhouse Rock.  
 > Courts will not interpret the Preamble to confer any rights or powers not granted specifically in the Constitution. 
-> Source: -- <cite>Cornell Law, Legal  Information Institute [1]</cite>
+___
+>  -- <cite>Cornell Law, Legal  Information Institute [1]</cite>
 
 
 
