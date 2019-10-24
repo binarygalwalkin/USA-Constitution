@@ -4,8 +4,8 @@
 > It is referred to in countless speeches, judicial opinions, and in a song from Schoolhouse Rock.  
 > Courts will not interpret the Preamble to confer any rights or powers not granted specifically in the Constitution. --Cornell Law, Legal >Information Institute
 
+___
 
-
-We the people of the United States, in order to form a more perfect union, establish justice, insure domestic tranquility, 
-provide for the common defense, promote the general welfare, and secure the blessings of liberty to ourselves and our posterity, 
-do ordain and establish this Constitution for the United States of America.
+# We the people of the United States, in order to form a more perfect union, establish justice, insure domestic tranquility, 
+# provide for the common defense, promote the general welfare, and secure the blessings of liberty to ourselves and our posterity, 
+# do ordain and establish this Constitution for the United States of America.
