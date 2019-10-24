@@ -1,7 +1,7 @@
 # USA-Constitution
 A history of edits to the US Constitution as it has been amended. Written in markdown to match original formatting.
 
-*   [Preamble](/constitution/preamble)
+*   [Preamble](https://github.com/binarygalwalkin/USA-Constitution/blob/master/Pre-Amble.md)
 *   [Article I](/constitution/articlei)
 *   [Article II](/constitution/articleii)
 *   [Article III](/constitution/articleiii)
