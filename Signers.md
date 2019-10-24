@@ -1,6 +1,4 @@
-# Done in convention by the unanimous consent of the states present the seventeenth day of September in the year of 
-our Lord one thousand seven hundred and eighty seven and of the independence of the United States of America the twelfth.</p>
-In witness whereof We have hereunto subscribed our Names,
+# Done in convention by the unanimous consent of the states present the seventeenth day of September in the year of our Lord one thousand seven hundred and eighty seven and of the independence of the United States of America the twelfth.In witness whereof We have hereunto subscribed our Names,
 ___
 ## G. Washington-Presidt. and deputy from Virginia
 ## New Hampshire: 
