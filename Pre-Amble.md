@@ -2,10 +2,8 @@
 ___
 > It is referred to in countless speeches, judicial opinions, and in a song from Schoolhouse Rock.  
 > Courts will not interpret the Preamble to confer any rights or powers not granted specifically in the Constitution. 
-___
+
 >  -- <cite>Cornell Law, Legal  Information Institute [1]</cite>
-
-
 
 [1]:https://www.law.cornell.edu/constitution/preamble
 ___
