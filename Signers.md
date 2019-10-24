@@ -12,11 +12,9 @@ ___
 ## New Jersey:
 - **Wil: Livingston, David Brearly, Wm. Paterson, Jona: Dayton
 ## Pennsylvania: 
-- **B. Franklin, Thomas Mifflin, Robt. Morris, Geo. Clymer, Thos. FitzSimons, Jared Ingersoll,
-James Wilson, Gouv Morris**
+- **B. Franklin, Thomas Mifflin, Robt. Morris, Geo. Clymer, Thos. FitzSimons, Jared Ingersoll,James Wilson, Gouv Morris**
 ## Delaware: 
-- **Geo: Read, Gunning Bedford jun, John Dickinson, Richard Bassett,
-Jaco: Broom**
+- **Geo: Read, Gunning Bedford jun, John Dickinson, Richard Bassett,Jaco: Broom**
 ## Maryland: 
 - **James McHenry, Dan of St Thos. Jenifer, Danl Carroll**
 ## Virginia: 
