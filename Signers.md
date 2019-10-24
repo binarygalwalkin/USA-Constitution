@@ -10,7 +10,7 @@ ___
 ## New York: 
 - **Alexander Hamilton**
 ## New Jersey:
-- **Wil: Livingston, David Brearly, Wm. Paterson, Jona: Dayton
+- **Wil: Livingston, David Brearly, Wm. Paterson, Jona: Dayton**
 ## Pennsylvania: 
 - **B. Franklin, Thomas Mifflin, Robt. Morris, Geo. Clymer, Thos. FitzSimons, Jared Ingersoll,James Wilson, Gouv Morris**
 ## Delaware: 
@@ -20,7 +20,7 @@ ___
 ## Virginia: 
 - **John Blair--, James Madison Jr.**
 ## North Carolina: 
--**Wm. Blount, Richd. Dobbs Spaight, Hu Williamson**
+- **Wm. Blount, Richd. Dobbs Spaight, Hu Williamson**
 ## South Carolina:
 - **J. Rutledge, Charles Cotesworth Pinckney, Charles Pinckney, Pierce Butler**
 ## Georgia:
