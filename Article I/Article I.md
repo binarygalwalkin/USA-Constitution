@@ -1,4 +1,4 @@
-[# Article I]
+# Article I
 
 
 <mark>Article I describes the design of the legislative branch of US Government -- the Congress. Important ideas include the separation of 
